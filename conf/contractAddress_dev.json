@@ -67,6 +67,11 @@
         "chainId": 57,
         "chainName": "Syscoin Mainnet",
         "address": ""
+      },
+      {
+        "chainId": 57000,
+        "chainName": "Rollux Testnet",
+        "address": "0xc6Bc996320c16cB59f73410ab42eE1C589A0F70A"
       }
     ]
   },
@@ -137,7 +142,7 @@
       {
         "chainId": 57000,
         "chainName": "Rollux Testnet",
-        "address": "0x2aed17A80Ff9611DfD9Dc8303C3003BE0CEE8D01"
+        "address": "0xb4CA1B277D45ecD03eD8BeBFB3157a23da3b0e34"
       }
     ]
   },
@@ -234,6 +239,11 @@
         "chainId": 5700,
         "chainName": "Syscoin Tanenbaum Testnet",
         "address": "0x001547114664D1050271943eaC4657bE2c15EFcC"
+      },
+      {
+        "chainId": 57000,
+        "chainName": "Rollux Tanenbaum Testnet",
+        "address": "0x32059e10b885a0D3d0131D42c5bebf0FCBfB9A46"
       }
     ]
   },
