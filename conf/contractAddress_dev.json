@@ -242,8 +242,8 @@
       },
       {
         "chainId": 57000,
-        "chainName": "Rollux Tanenbaum Testnet",
-        "address": "0x32059e10b885a0D3d0131D42c5bebf0FCBfB9A46"
+        "chainName": "Rollux Testnet",
+        "address": "0x5e89655c3B6E19b97a640e7D75D23018F3487a83"
       }
     ]
   },
