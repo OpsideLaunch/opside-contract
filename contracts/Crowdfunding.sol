@@ -27,7 +27,7 @@ contract CrowdfundingFactory is Ownable {
         feeToSetter = _feeToSetter;
         transferSigner = _transferSigner;
         feeTo = _feeTo;
-        fee = 300;
+        fee = 500;
     }
 
     function createCrowdfundingContract(Parameters calldata paras) public {
