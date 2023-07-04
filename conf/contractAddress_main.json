@@ -63,12 +63,12 @@
       {
         "chainId": 57,
         "chainName": "Syscoin",
-        "address": "0xC5E2fcDa1c4e8B9d37369876EEeDd852b619B43B"
+        "address": "0xDf3c6E218171b1a2CA787035CA44c39096724b47"
       },
       {
         "chainId": 570,
         "chainName": "Rollux",
-        "address": "0x46Cb9af1222CEC58E4c22904212a50698E5c0907"
+        "address": "0x022ed0273Ff82885FED89A752Ff632D0a8c70b73"
       }
     ]
   },
