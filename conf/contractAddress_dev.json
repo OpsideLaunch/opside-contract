@@ -22,12 +22,12 @@
       {
         "chainId": 5700,
         "chainName": "Syscoin Testnet",
-        "address": "0x8ab5971f601087e88a0c3Fd0c12AC5314a10091e"
+        "address": "0x21f4C0533B222C6775411D0Cd54fFBeee31FdF31"
       },
       {
         "chainId": 57000,
         "chainName": "Rollux Testnet",
-        "address": "0xb4CA1B277D45ecD03eD8BeBFB3157a23da3b0e34"
+        "address": "0x61c2b9595c289369476074Cc7F6d56DEF1405920"
       }
     ]
   },
