@@ -4,14 +4,9 @@
     "abiUrl": "/contracts/artifacts/Startup.json",
     "addresses": [
       {
-        "chainId": 57,
-        "chainName": "Syscoin",
-        "address": "0x325e10d3269d1e9fDA05cb6d76F81ed2069885d0"
-      },
-      {
-        "chainId": 570,
-        "chainName": "Rollux",
-        "address": "0x97E1d7b620851e50DAEf258aDB76253C4C8B99c3"
+        "chainId": 137,
+        "chainName": "Polygon",
+        "address": "0xb567396a4c67e068Bd1a3fFd313b2da5c8D53Df2"
       }
     ]
   },
@@ -20,14 +15,9 @@
     "abiUrl": "/contracts/artifacts/BountyFactory.json",
     "addresses": [
       {
-        "chainId": 57,
-        "chainName": "Syscoin",
-        "address": "0xEa1c3Ef1A5cB22a924aD2f131DDCc5296f434BB9"
-      },
-      {
-        "chainId": 570,
-        "chainName": "Rollux",
-        "address": "0x5457c5cc76218197958BAFf6B3804b46f88FD5f6"
+        "chainId": 137,
+        "chainName": "Polygon",
+        "address": "0x2E68F383EEed7A47C9d8a15AEC7ef4990daC9450"
       }
     ]
   },
@@ -61,14 +51,9 @@
     "abiUrl": "/contracts/artifacts/CrowdfundingFactory.json",
     "addresses": [
       {
-        "chainId": 57,
-        "chainName": "Syscoin",
-        "address": "0xDf3c6E218171b1a2CA787035CA44c39096724b47"
-      },
-      {
-        "chainId": 570,
-        "chainName": "Rollux",
-        "address": "0x022ed0273Ff82885FED89A752Ff632D0a8c70b73"
+        "chainId": 137,
+        "chainName": "Polygon",
+        "address": "0x7E209F90c1D7238163947339b37ef34aaa86795D"
       }
     ]
   },
