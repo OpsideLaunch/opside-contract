@@ -4,14 +4,14 @@
     "abiUrl": "/contracts/artifacts/Startup.json",
     "addresses": [
       {
-        "chainId": 5700,
-        "chainName": "Syscoin Testnet",
-        "address": "0x108E699ca5570D13C89FeE551Aa86D3ADde1FedF"
+        "chainId": 137,
+        "chainName": "Polygon",
+        "address": "0xE7c1f9DFEb55fe2196b62Abb7BeB84b9202103d5"
       },
       {
-        "chainId": 57000,
-        "chainName": "Rollux Testnet",
-        "address": "0xc6Bc996320c16cB59f73410ab42eE1C589A0F70A"
+        "chainId": 80001,
+        "chainName": "Mumbai",
+        "address": "0xd41D4FeF58b8c008F6e4d9614f2Fa9ed2Aec8aAb"
       }
     ]
   },
@@ -20,14 +20,14 @@
     "abiUrl": "/contracts/artifacts/BountyFactory.json",
     "addresses": [
       {
-        "chainId": 5700,
-        "chainName": "Syscoin Testnet",
-        "address": "0x21f4C0533B222C6775411D0Cd54fFBeee31FdF31"
+        "chainId": 137,
+        "chainName": "Polygon",
+        "address": "0x05a43eACB39cE876C9303417659c125Db3723d0A"
       },
       {
-        "chainId": 57000,
-        "chainName": "Rollux Testnet",
-        "address": "0x61c2b9595c289369476074Cc7F6d56DEF1405920"
+        "chainId": 80001,
+        "chainName": "Mumbai",
+        "address": "0x5194F549f8C71946A5a508ee1e306Ba83cA2c481"
       }
     ]
   },
@@ -61,14 +61,14 @@
     "abiUrl": "/contracts/artifacts/CrowdfundingFactory.json",
     "addresses": [
       {
-        "chainId": 5700,
-        "chainName": "Syscoin Tanenbaum Testnet",
-        "address": "0xCd1eA68781637eE46b140374B2689a5b81A365bb"
+        "chainId": 137,
+        "chainName": "Polygon",
+        "address": "0xb2220d4566a91754a3DD052F9463De3D5a31236C"
       },
       {
-        "chainId": 57000,
-        "chainName": "Rollux Testnet",
-        "address": "0x7C4c161a923dF21b1dd1d62b8620Ea24d6E928c4"
+        "chainId": 80001,
+        "chainName": "Mumbai",
+        "address": "0x92b6dA4d76C15B0a87209FccB8De1CEb615f4b1A"
       }
     ]
   },
